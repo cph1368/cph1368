@@ -10,11 +10,12 @@ I bridge <strong>design and engineering</strong> to turn complex product problem
 </p>
 
 <p>
-<a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a>
+<a href="linkedin.com/in/corry-h-556377166">💼 LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
+<a href="https://stackblitz.com/~/github.com/cph1368/TradingApp">🌐 Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://xd.adobe.com/view/f3f065af-c2f8-46d2-7b9a-b527065b684f-85c1/?fullscreen">🌐 Compilation Previous Work</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">✉️ Contact</a>
+<a href="mailto:handayanicorry@gmail.com">✉️ Contact</a>
 </p>
 
 </div>
