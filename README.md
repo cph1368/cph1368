@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Corry 👋
+<br>
 Frontend Engineer · UX Engineer · Design Systems
 
 I build scalable, accessible and thoughtful digital experiences where design and engineering meet.
@@ -7,9 +8,13 @@ I build scalable, accessible and thoughtful digital experiences where design and
 My focus is on turning complex product requirements into clear user experiences, reusable components and maintainable frontend systems.
 
 ✦ What I Do
+<br>
 Product UX              →  Turning requirements into intuitive experiences
+<br>
 Frontend Engineering   →  Building production-ready interfaces
+<br>
 Design Systems          →  Reusable components, tokens & patterns
+<br>
 Prototyping             →  Design → Code → Staging → Validation
 
 I particularly enjoy working at the intersection of UX, frontend engineering and design systems.
