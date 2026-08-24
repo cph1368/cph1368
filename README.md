@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Corry
+# 👋 Hi, I'm Corry Handayani
 
 ### 💻 · UX UI Developer · Design Technologist · Frontend Engineer · 🧩 Design Systems
 
