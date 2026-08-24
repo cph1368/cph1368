@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Corry
 
-### 💻 Design Technologist · Frontend Engineer · 🧩 Design Systems
+### 💻 · UX UI Developer · Design Technologist · Frontend Engineer · 🧩 Design Systems
 
 <p>
 I bridge <strong>design and engineering</strong> to turn complex product problems into
