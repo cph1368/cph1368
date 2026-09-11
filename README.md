@@ -2,18 +2,24 @@
 
 # 👋 Hi, I'm Corry Handayani
 
-### 💻 · UX UI Developer · Design Technologist · Frontend Engineer · 🧩 Design Systems
+### 💻 Frontend Engineer · UI/UX Developer · Design Technologist · 🧩 Design Systems
 
 <p>
-I bridge <strong>design and engineering</strong> to turn complex product problems into
-<strong>thoughtful, accessible and scalable digital experiences</strong>.
+I build <strong>scalable, production-ready frontend experiences</strong> with a strong foundation in
+<strong>UX/UI, interaction design and design systems</strong>.
 </p>
 
 <p>
-<a href="linkedin.com/in/corry-h-556377166">💼 LinkedIn</a>
+I bridge <strong>engineering and design</strong> — turning complex product problems into
+<strong>thoughtful, accessible and maintainable digital experiences</strong>.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/corry-h-556377166">💼 LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://stackblitz.com/~/github.com/cph1368/TradingApp">🌐 Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://xd.adobe.com/view/f3f065af-c2f8-46d2-7b9a-b527065b684f-85c1/?fullscreen">🌐 Compilation Previous Work</a>
+<a href="https://stackblitz.com/~/github.com/cph1368/TradingApp">🌐 Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://xd.adobe.com/view/f3f065af-c2f8-46d2-7b9a-b527065b684f-85c1/?fullscreen">🎨 Previous Work</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:handayanicorry@gmail.com">✉️ Contact</a>
 </p>
@@ -22,18 +28,31 @@ I bridge <strong>design and engineering</strong> to turn complex product problem
 
 ---
 
-## ✦ Design × Engineering
+## ✦ Engineering × Design
 
-I work at the intersection of **design intent and production reality**.
+I work at the intersection of **frontend engineering, design intent and production reality**.
 
-I think beyond how an interface looks — considering how it **behaves, scales, gets built and becomes part of a wider product system**.
+I think beyond how an interface looks — considering how it **behaves, scales, integrates with application logic and becomes part of a wider product system**.
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎨 Design
+### 💻 Engineering
+
+* Angular, React & React Native
+* TypeScript & JavaScript
+* API-driven applications
+* Reusable component architecture
+* Responsive frontend development
+* Production UI
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 UX/UI
 
 * Product & interaction design
 * Figma prototyping
@@ -41,19 +60,6 @@ I think beyond how an interface looks — considering how it **behaves, scales, 
 * Design tokens & patterns
 * Responsive behaviour
 * Accessibility
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Engineering
-
-* Angular & Ionic
-* React & TypeScript
-* JavaScript
-* Reusable components
-* Frontend architecture
-* Production UI
 
 </td>
 
@@ -74,31 +80,36 @@ When a requirement has multiple possible solutions, I explore **Option A, B and 
 <br>
 ↓
 <br>
-**💡 Explore**<br>
+**💡 Explore**
+<br>
 ↓
 <br>
-**🎨 Prototype**<br>
+**🎨 Prototype**
+<br>
 ↓
 <br>
-**💻 Build**<br>
+**🏗️ Architect**
+<br>
 ↓
 <br>
-**🚀 Validate**<br>
+**💻 Build**
+<br>
 ↓
 <br>
-**🤝 Collaborate**<br>
+**🚀 Validate**
+<br>
 ↓
 <br>
-**🧩 Systemise  or build into production**
+**🧩 Systemise & Scale**
 
 </div>
 
-I prototype ideas in **Figma and the codebase**, then use staging environments where possible so stakeholders can experience the solution rather than reviewing a static concept.
+I prototype ideas in **Figma and the codebase**, then use working prototypes and staging environments where possible so stakeholders can experience the solution rather than reviewing a static concept.
 
-This makes UX decisions, technical trade-offs and implementation constraints visible early.
+This makes UX decisions, engineering constraints and technical trade-offs visible early.
 
-> **The goal isn't simply to implement the original request.
-> It's to find the best solution to the underlying problem — and turn useful decisions into reusable patterns.**
+> **The goal isn't simply to implement the original request.  
+> It's to find the right solution to the underlying problem — then engineer it in a way that can scale.**
 
 ---
 
@@ -109,11 +120,31 @@ This makes UX decisions, technical trade-offs and implementation constraints vis
 
 <td width="50%" valign="top">
 
+### ⚡ Frontend Engineering
+
+I translate complex product requirements into **maintainable, production-ready frontend experiences** using reusable components and scalable architecture.
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🎯 Product Thinking
 
 I start with the **problem and user need**, not just the requested interface.
 
 I look for ways to simplify complex workflows and make information easier to understand and act on.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏗️ Systems Thinking
+
+I look beyond individual screens for opportunities to create **reusable components, patterns and design tokens** that improve consistency and engineering velocity.
 
 </td>
 
@@ -133,29 +164,9 @@ Figma is one part of the process — working code is another.
 
 <td width="50%" valign="top">
 
-### ⚡ Frontend Engineering
+### 🎨 UI Engineering
 
-I translate design intent into **maintainable, production-ready components** with responsive behaviour and reusable architecture.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏗️ Systems Thinking
-
-I look beyond individual screens for opportunities to create **reusable components, patterns and design tokens**.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤝 Collaboration
-
-I make UX and technical trade-offs visible so **designers, developers and stakeholders** can make informed decisions together.
+I understand both **design intent and implementation**, allowing me to translate detailed interfaces into responsive, accessible production UI without losing the experience behind the design.
 
 </td>
 
@@ -163,7 +174,7 @@ I make UX and technical trade-offs visible so **designers, developers and stakeh
 
 ### ♿ Accessibility
 
-I consider accessibility as part of **component and interaction design**, rather than something added at the end.
+I consider accessibility as part of **component architecture and interaction design**, rather than something added at the end.
 
 </td>
 
@@ -172,24 +183,94 @@ I consider accessibility as part of **component and interaction design**, rather
 
 ---
 
-## 🚀 Selected Work
+# 🚀 Selected Work
+
+## 🌱 DAYZERO
+
+### A calm productivity & accountability app — designed and engineered from concept to implementation.
+
+DAYZERO is a cross-platform productivity experience connecting **planning, focus, reminders, widgets, progress and reflection** into one continuous daily workflow.
+
+> ### I designed it. I prototyped it. I built it.
+
+`React Native` · `TypeScript` · `Expo` · `SwiftUI` · `WidgetKit` · `iOS` · `Android`
+
+### ⚡ Engineering
+
+DAYZERO is more than a design concept — it is being developed as a **working cross-platform application**.
+
+* React Native + TypeScript application architecture
+* Reusable component system
+* Shared design tokens and UI patterns
+* Typed application models
+* Application state and persistence
+* Task, reminder and notes architecture
+* Focus-session interactions
+* Dynamic progress tracking
+* Deep linking
+* Local notifications
+* Responsive mobile layouts
+* Native iOS Home Screen widgets
+* iOS Lock Screen widgets
+* SwiftUI + WidgetKit integration
+* Android Home Screen widgets
+* Shared application / widget state
+
+### 🎨 Product & UX
+
+I also own the product experience from concept through implementation:
+
+* Product concept & UX strategy
+* User flows
+* Interaction design
+* Figma prototyping
+* Daily planning experience
+* Focus & accountability interactions
+* Widget UX
+* Progress & reflection flows
+* Visual design system
+* Accessibility & interaction states
+
+### Core Experience
+
+<div align="center">
+
+**Plan → Focus → Check in → Complete → Reflect → Grow**
+
+</div>
+
+DAYZERO demonstrates how I approach product engineering:
+
+<div align="center">
+
+**Idea → UX → Prototype → Architecture → Components → Native Integration → Working Product**
+
+</div>
+
+> **DAYZERO is currently under active development. Production source code is maintained privately while the product is being developed.**
+
+---
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 📊 Spyderflow DragDrop Dashboard
+### 📊 Spyderflow Drag & Drop Dashboard
 
-A complex enterprise dashboard exploring **information hierarchy, workflow design and data-driven interfaces**.
+A complex enterprise dashboard exploring **frontend architecture, information hierarchy, workflow design and data-driven interfaces**.
 
 **Focus**
 
-`Angular` · `TypeScript` · `UX` · `Dashboard`· `Chart.js`· `PRIMENG`
+`Angular` · `TypeScript` · `PrimeNG` · `Chart.js` · `UX`
+
+**Engineering**
+
+Reusable widgets · Drag & drop · Persistent layouts · Interactive charts · Responsive UI
 
 **Approach**
 
-Figma exploration → multiple concepts → working prototype → staging validation
+Requirement → Figma exploration → working prototype → implementation → staging validation
 
 </td>
 
@@ -197,15 +278,19 @@ Figma exploration → multiple concepts → working prototype → staging valida
 
 ### 🧩 Design Systems
 
-Exploring the connection between **design-system foundations and production UI**.
+Connecting **design-system foundations with production frontend architecture**.
 
 **Focus**
 
-`Figma` · `Components` · `Design Tokens` · `PrimeNG` · `Accessibility`,`Storybook`,`Variables`
+`Angular` · `TypeScript` · `Figma` · `PrimeNG` · `Storybook` · `Design Tokens`
+
+**Engineering**
+
+Reusable components · Component states · Themes · Tokens · Accessibility · Documentation
 
 **Approach**
 
-Design patterns → reusable components → implementation → documentation
+Design foundations → reusable components → implementation → documentation
 
 </td>
 
@@ -215,29 +300,37 @@ Design patterns → reusable components → implementation → documentation
 
 <td width="50%" valign="top">
 
-### 🛍️ Macaroon Shop
-
-A mobile-first e-commerce experience focused on **responsive interaction, product discovery and reusable UI**.
-
-**Focus**
-
-`Angular` · `Ionic` · `TypeScript`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 📈 Trading App
 
-An interactive mobile trading experience exploring **financial data visualisation, information hierarchy and responsive interaction design**.
+An interactive mobile trading experience exploring **financial data visualisation, frontend architecture and responsive interaction design**.
 
 **Focus**
 
 `Ionic` · `Angular` · `TypeScript` · `Chart.js`
 
+**Engineering**
+
+Interactive charts · Responsive UI · Data-driven interfaces · Reusable components
+
 **Approach**
 
-Interactive charts → information hierarchy → responsive interactions → reusable components
+Information hierarchy → interaction design → prototype → implementation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ Macaroon Shop
+
+A mobile-first e-commerce experience focused on **responsive frontend development, product discovery and reusable UI**.
+
+**Focus**
+
+`Angular` · `Ionic` · `TypeScript`
+
+**Engineering**
+
+Mobile-first UI · Responsive layouts · Reusable components · Interactive states
 
 </td>
 
@@ -246,21 +339,23 @@ Interactive charts → information hierarchy → responsive interactions → reu
 
 ---
 
-## 🛠️ Core Toolbox
+# 🛠️ Core Toolbox
 
-### 💻 Frontend
+### 💻 Frontend & Mobile
 
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CF649A?style=flat-square&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🎨 Design & Systems
+### 🎨 UI Engineering & Design Systems
 
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -276,17 +371,28 @@ Interactive charts → information hierarchy → responsive interactions → reu
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Responsive_Design-4A5568?style=flat-square"/>
 <img src="https://img.shields.io/badge/Component_Architecture-7C3AED?style=flat-square"/>
 </p>
 
 ---
 
-## 🤖 Design + AI
+## 🤖 Engineering + Design + AI
 
-I use AI as a **design and engineering accelerator** — helping explore ideas, prototype faster and reduce the distance between design intent and working code.
+I use AI as an **engineering and design accelerator** — helping explore ideas, prototype faster and reduce the distance between design intent and working software.
 
-The focus is not simply generating code, but using AI to support **exploration, implementation and iteration** while keeping product thinking, accessibility and technical judgement at the centre.
+I use AI across:
+
+<div align="center">
+
+**Explore → Prototype → Implement → Test → Refine**
+
+</div>
+
+The focus isn't simply generating code faster.
+
+It's using AI alongside **engineering judgement, architecture, accessibility and product thinking** to explore more possibilities and deliver better solutions faster.
 
 ---
 
@@ -294,17 +400,19 @@ The focus is not simply generating code, but using AI to support **exploration, 
 
 <div align="center">
 
-### Better experiences · Better systems · Better collaboration
+### Better engineering · Better experiences · Better systems
 
 </div>
 
-I'm particularly interested in the problems that sit between disciplines:
+I'm particularly interested in the problems that sit between engineering and product:
+
+**How can complex frontend applications remain maintainable as they grow?**
+
+**How can component architecture improve both engineering velocity and UX consistency?**
 
 **How can a design become easier to build?**
 
-**How can a component become a reusable system?**
-
-**How can engineering constraints improve the design rather than limit it?**
+**How can engineering constraints improve the experience rather than limit it?**
 
 **How can prototypes help teams make better decisions earlier?**
 
@@ -312,10 +420,10 @@ I'm particularly interested in the problems that sit between disciplines:
 
 <div align="center">
 
-### ✨ Make the idea tangible. Make the system reusable.
+### ✨ I design it. I prototype it. I engineer it.
 
 <br>
 
-<sub>Design Technology · Frontend Engineering · Design Systems</sub>
+<sub>Frontend Engineering · Angular · React · TypeScript · React Native · UX/UI · Design Systems</sub>
 
 </div>
