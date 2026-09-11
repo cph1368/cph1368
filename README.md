@@ -47,7 +47,7 @@ It connects **planning, focus, reminders, widgets, progress and reflection** int
 
 > 🚧 **Currently in active development** — production source code is private while DAYZERO is being developed.
 
-**[Explore DAYZERO →](PUT-YOUR-DAYZERO-SHOWCASE-REPO-URL-HERE)**
+**[Explore DAYZERO →](https://github.com/cph1368/DayZero-App-Showcase)**
 
 ---
 
